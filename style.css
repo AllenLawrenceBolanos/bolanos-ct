@@ -1,3 +1,13 @@
-body {
-    padding: 0;
+div {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    width: 100px;
+    height: 30px;
+}
+
+p {
+    font-size: 16px;    
 }
